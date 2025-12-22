@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="hub" fetch="https://github.com" />
+
+  <!-- Common Trees -->
+  <project path="device/xiaomi/mt6768-common" name="mk7x7/device_xiaomi_mt6768-common" remote="hub" revision="16"  />
+  <project path="vendor/xiaomi/mt6768-common" name="mk7x7/proprietary_vendor_xiaomi_mt6768-common" remote="hub" revision="16"  />
+
+  <!-- Merlin Trees -->
+  <project path="device/xiaomi/merlinx" name="Jbub5/device_xiaomi_merlinx" remote="hub" revision="15-QPR2_voltage1"  />
+  <project path="vendor/xiaomi/merlinx" name="Jbub5/proprietary_vendor_xiaomi_merlinx" remote="hub" revision="15"  />
+
+  <!-- Kernel Tree -->
+  <project path="kernel/xiaomi/mt6768" name="Jbub5/android_kernel_xiaomi_mt6768" remote="hub" revision="kernel-tree" />
+
+</manifest>
