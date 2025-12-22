@@ -3,17 +3,17 @@
 
 <remote name="hub" fetch="https://github.com" />
 
-  <!-- Common Trees -->
-  <project path="device/xiaomi/mt6768-common" name="mk7x7/device_xiaomi_mt6768-common" remote="hub" revision="16"  />
-  <project path="vendor/xiaomi/mt6768-common" name="mk7x7/proprietary_vendor_xiaomi_mt6768-common" remote="hub" revision="16"  />
+ <!-- Common Trees -->
+ <project path="device/xiaomi/mt6768-common" name="mk7x7/device_xiaomi_mt6768-common" remote="hub" revision="16" />
+ <project path="vendor/xiaomi/mt6768-common" name="mk7x7/proprietary_vendor_xiaomi_mt6768-common" remote="hub" revision="16" />
 
-  <!-- Merlin Trees -->
-  <project path="device/xiaomi/merlinx" name="mk7x7/device_xiaomi_merlinx" remote="hub" revision="15-QPR2"  />
-  <project path="vendor/xiaomi/merlinx" name="Jbub5/proprietary_vendor_xiaomi_merlinx" remote="hub" revision="15"  />
+ <!-- Merlin Trees -->
+ <project path="device/xiaomi/merlinx" name="mk7x7/device_xiaomi_merlinx" remote="hub" revision="15-QPR2" />
+ <project path="vendor/xiaomi/merlinx" name="Jbub5/proprietary_vendor_xiaomi_merlinx" remote="hub" revision="15" />
 
-  <!-- Kernel Tree -->
-  <project path="kernel/xiaomi/mt6768" name="Jbub5/android_kernel_xiaomi_mt6768" remote="hub" revision="kernel-tree" />
+ <!-- Kernel Tree -->
+ <project path="kernel/xiaomi/mt6768" name="Jbub5/android_kernel_xiaomi_mt6768" remote="hub" revision="kernel-tree" />
 
-  <!-- Hardware Trees -->
-  <project path="hardware/xiaomi" name="Lineageos/android_hardware_xiaomi" remote="hub" revision="lineage-23.1" />
+ <!-- Hardware Trees -->
+ <project path="hardware/xiaomi" name="Lineageos/android_hardware_xiaomi" remote="hub" revision="lineage-23.1" />
 </manifest>
