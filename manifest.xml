@@ -16,4 +16,7 @@
 
  <!-- Hardware Trees -->
  <project path="hardware/xiaomi" name="Lineageos/android_hardware_xiaomi" remote="hub" revision="lineage-23.1" />
+
+ <!-- Hardware Trees -->
+ <project path="device/mediatek/sepolicy_vndr" name="Lineageos/android_device_mediatek_sepolicy_vndr" remote="hub" revision="lineage-23.0" />
 </manifest>
