@@ -28,5 +28,5 @@
  <project path="hardware/mediatek" name="Lineageos/android_hardware_mediatek" remote="hub" revision="lineage-23.0" />
 
  <!-- Keys -->
- <project path="vendor/afterlife-priv/keys" name="mk7x7/vendor_afterlife_keys" remote="hub" revision="afterlife" />
+ <project path="vendor/afterlife-priv/keys" name="mk7x7/vendor_afterlife_keys" remote="hub" revision="main" />
 </manifest>
