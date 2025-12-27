@@ -4,7 +4,7 @@
 <remote name="hub" fetch="https://github.com" />
 
  <!-- Common Trees -->
- <project path="device/xiaomi/mt6768-common" name="mk7x7/device_xiaomi_mt6768-common" remote="hub" revision="16-test" />
+ <project path="device/xiaomi/mt6768-common" name="mk7x7/device_xiaomi_mt6768-common" remote="hub" revision="test" />
  <project path="vendor/xiaomi/mt6768-common" name="mk7x7/proprietary_vendor_xiaomi_mt6768-common.git" remote="hub" revision="16"  />
 
  <!-- Merlin Trees -->
